@@ -67,7 +67,7 @@ Extended CoMesh with five resource-aware protocols, including energy-aware leade
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<sub>Also: ESP32-H2 · Arduino R4 WiFi · REST APIs · UART · HTTP · Wi-Fi · ESP-IDF · ns-3 · Arduino IDE</sub>
+<sub>Also: ESP32-H2 · Arduino R4 WiFi · REST APIs · UART · HTTP · Wi-Fi · ESP-IDF · ns-3</sub>
 
 ---
 
