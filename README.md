@@ -3,8 +3,7 @@
 <h1>Hi, I'm Mukul Dabas 👋</h1>
 
 <p>
-<b>B.Tech CSE @ Bennett University</b> · <b>IEEE-published author</b><br/>
-Building sensor-to-dashboard systems across <b>IoT, edge networking & ML</b>
+<b>B.Tech CSE @ Bennett University</b> · <b>IEEE-published author</b><br/></b>
 </p>
 
 <a href="https://www.linkedin.com/in/mukul-dabas-a99a55430/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
